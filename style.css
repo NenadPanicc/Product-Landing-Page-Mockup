@@ -1,0 +1,15 @@
+html {
+  scroll-behavior: smooth;
+}
+iframe {
+  display:block;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:50px;
+}
+#forma {
+  max-width:450px;
+}
+#nav-bar {
+  height:60px;
+}
